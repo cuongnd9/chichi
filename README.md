@@ -1,7 +1,5 @@
 # chichi
 
-[![Build Status](https://travis-ci.com/103cuong/chichi.svg?branch=master)](https://travis-ci.com/103cuong/chichi)
-
 🍼 generate a random number
 
 ## usage
